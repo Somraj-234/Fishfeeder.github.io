@@ -7,10 +7,10 @@
 
 Servo servo;
 
-#define FIREBASE_HOST "<FIREBASE_HOST>"
-#define FIREBASE_AUTH "<FIREBASE_AUTH>"
-#define WIFI_SSID "<SSID>"
-#define WIFI_PASSWORD "<PASSWORD>"
+#define FIREBASE_HOST "<fish-feeder-44564-default-rtdb.firebaseio.com/>"
+#define FIREBASE_AUTH "<zdtgxmCCRuYAKUvJ000rvUbLoZJuhNJpTqdSEY5L>"
+#define WIFI_SSID "<$@!>"
+#define WIFI_PASSWORD "<223344ssjj>"
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org",19800);
